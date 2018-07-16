@@ -1,0 +1,12 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "node-ensure": {
+      "integrity": "sha1-7K52QVDemYYexcgQ/V0Jaxg5Mqc=",
+      "resolved": "https://registry.npmjs.org/node-ensure/-/node-ensure-0.0.0.tgz",
+      "version": "0.0.0"
+    },
+    "pdf-parser": "^1.0.4"
+  }
+}
