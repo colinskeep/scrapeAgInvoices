@@ -1,5 +1,5 @@
 var pdfParser = require('pdf-parser');
-var PDF_PATH = './CARBEY 247426-247428.pdf';
+var PDF_PATH = './247426-247428.pdf';
 var fs = require('fs');
 
 pdfParser.pdf2json(PDF_PATH, function (error, pdf) {
